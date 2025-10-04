@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for amshithnair -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=440&lines=Hi+%F0%9F%91%8B%2C+I'm+Amshith+Nair;Developer+%7C+Designer+%7C+Tech+Enthusiast;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=500&color=C0C0C0&center=true&vCenter=true&width=440&lines=Hi+%F0%9F%91%8B%2C+I'm+Amshith+Nair;Developer+%7C+Designer+%7C+Tech+Enthusiast;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 <p align="center">
