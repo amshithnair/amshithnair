@@ -1,120 +1,115 @@
-# Hey there 👋 I'm Amshith Nair
+<!-- GitHub Profile README for amshithnair -->
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=500&color=C0C0C0&center=true&vCenter=true&width=440&lines=Hi+%F0%9F%91%8B%2C+I'm+Amshith+Nair;Developer+%7C+Designer+%7C+Tech+Enthusiast;Welcome+to+my+GitHub+Profile!" />
+</p>
 
-### 🚀 Fullstack Developer | UI/UX Designer | Tech Visionary
-
-Crafting beautiful digital experiences through code and design. Passionate about building scalable solutions that solve real problems.
-
-[Email](mailto:amshithnair@gmail.com) • [LinkedIn](https://www.linkedin.com/in/amshithnair) • [Instagram](https://instagram.com/amshithnair) • [Twitter](https://x.com/amshithnair)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amshithnair&label=Profile%20views&color=0e75b6&style=flat" alt="amshithnair" />
+</p>
 
 ---
 
-## 💫 About Me
+## 🧑‍💻 About Me
 
-I'm a developer and designer who believes that great software is the intersection of beautiful design and clean code. I love experimenting with new technologies, building products people love, and contributing to the open-source community.
-
-- 🎯 Currently focused on fullstack development and product design
-- 🧠 Always learning and exploring emerging technologies
-- ☕ Powered by code, coffee, and creativity
-- 🎨 Obsessed with user experience and visual design
+- 💼 Fullstack Developer & UI/UX Designer
+- 🎨 Designing stunning user experiences and building scalable solutions
+- 🚀 Always experimenting with new tech, frameworks, and creative tools
+- 🧩 Puzzle lover, coffee enthusiast, and lifelong learner
 
 ---
 
-## 🛠️ Tech Arsenal
+## 💡 What I Do
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-
----
-
-## 📊 GitHub Insights
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amshithnair&show_icons=true&theme=gruvbox&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=amshithnair&theme=gruvbox&hide_border=true&background=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amshithnair&layout=compact&theme=gruvbox&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)
-
-</div>
-
----
-
-## 🎯 What I Do
-
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="50%">
-      <h3>💻 Development</h3>
-      <p>
-        Building scalable web applications, crafting robust APIs, and optimizing performance. Full-stack development with modern frameworks and best practices.
-      </p>
+    <td><b>👨‍💻 Development</b><br>
+      <ul>
+        <li>Backend & API Design</li>
+        <li>Web Apps & Dashboards</li>
+        <li>Automation & DevOps</li>
+      </ul>
     </td>
-    <td align="center" width="50%">
-      <h3>🎨 Design</h3>
-      <p>
-        Creating stunning UI/UX designs, prototyping interactive experiences, and building design systems that scale.
-      </p>
+    <td><b>🎨 Design</b><br>
+      <ul>
+        <li>UI/UX Prototyping</li>
+        <li>Branding & Visuals</li>
+        <li>Motion & Web Design</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-## 💡 My Philosophy
+## 🌈 Tech Stack & Tools
 
-> **"Code is poetry. Design is the art. Together, they create magic."**
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</p>
 
-I believe in writing clean, maintainable code that's as beautiful as it is functional. User experience isn't an afterthought—it's the foundation.
+**Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
+
+**Databases**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+**UI/UX & Design Tools**
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kittl-5B21B6?style=for-the-badge" />
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## ✨ GitHub Stats
 
-I'm always excited to collaborate on interesting projects or just chat about tech, design, and everything in between!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amshithnair@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amshithnair)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amshithnair)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/amshithnair)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amshithnair&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amshithnair&theme=tokyonight" height="170" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amshithnair&layout=compact&theme=tokyonight" height="120" />
+</p>
 
 ---
 
-<div align="center">
+## 🔗 Connect With Me
 
-### 🌟 Thanks for visiting my profile! Feel free to explore my repositories and get in touch.
+<p align="left">
+  <a href="mailto:amshithnair@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/amshithnair" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/amshithnair" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://x.com/amshithnair" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p>
 
-*Last updated: December 2024*
+---
 
-</div>
+## 🎯 My Motto
+
+> "Design is intelligence made visible. Code is creativity made functional."
+
+---
+
+<!--
+✨ Check out my featured projects below or scroll through my pinned repos!
+🌟 Always open to collaboration and new opportunities.
+-->
