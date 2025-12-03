@@ -125,13 +125,90 @@ I believe in writing clean, maintainable code that's as beautiful as it is funct
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects & Demos
 
 <div align="center">
 
 📌 Check out my pinned repositories below to see some of my best work!
 
-*Scroll down to view my most exciting projects*
+</div>
+
+### 🎬 Project Showcases
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h4>🎨 UI/UX Design Prototype</h4>
+      <p><small>Interactive design system & animations</small></p>
+      <a href="https://github.com/amshithnair/design-system">
+        <img src="https://img.shields.io/badge/View%20Repository-000?style=for-the-badge&logo=github" />
+      </a>
+      <br><br>
+      <details>
+        <summary>📹 Click to see design demo</summary>
+        <br>
+        <video src="https://user-images.githubusercontent.com/YOUR-GITHUB-ID/design-demo.mp4" width="100%" controls></video>
+        <p><small>Showing Figma prototypes → live implementation with smooth animations</small></p>
+      </details>
+    </td>
+    <td align="center" width="50%">
+      <h4>⚡ Full Stack Web App</h4>
+      <p><small>Feature walkthrough & user interactions</small></p>
+      <a href="https://github.com/amshithnair/web-app-project">
+        <img src="https://img.shields.io/badge/View%20Repository-000?style=for-the-badge&logo=github" />
+      </a>
+      <br><br>
+      <details>
+        <summary>📹 Click to see feature demo</summary>
+        <br>
+        <video src="https://user-images.githubusercontent.com/YOUR-GITHUB-ID/webapp-demo.mp4" width="100%" controls></video>
+        <p><small>Real-time demo: user signup → dashboard → key features in action</small></p>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h4>🤖 Automation & API Integration</h4>
+      <p><small>Backend functionality showcase</small></p>
+      <a href="https://github.com/amshithnair/api-automation">
+        <img src="https://img.shields.io/badge/View%20Repository-000?style=for-the-badge&logo=github" />
+      </a>
+      <br><br>
+      <details>
+        <summary>📹 Click to see API demo</summary>
+        <br>
+        <video src="https://user-images.githubusercontent.com/YOUR-GITHUB-ID/api-demo.mp4" width="100%" controls></video>
+        <p><small>API endpoints working, data processing, real-time updates</small></p>
+      </details>
+    </td>
+    <td align="center" width="50%">
+      <h4>📱 Mobile Responsive Design</h4>
+      <p><small>Cross-device compatibility showcase</small></p>
+      <a href="https://github.com/amshithnair/responsive-app">
+        <img src="https://img.shields.io/badge/View%20Repository-000?style=for-the-badge&logo=github" />
+      </a>
+      <br><br>
+      <details>
+        <summary>📹 Click to see responsive demo</summary>
+        <br>
+        <video src="https://user-images.githubusercontent.com/YOUR-GITHUB-ID/mobile-demo.mp4" width="100%" controls></video>
+        <p><small>Desktop → Tablet → Mobile transitions & interactions</small></p>
+      </details>
+    </td>
+  </tr>
+</table>
+
+### 📸 Screenshots & Previews
+
+<div align="center">
+
+**Project Showcase 1**
+<br>
+![Project 1](https://via.placeholder.com/600x400/0d1117/58a6ff?text=Project+Demo+Screenshot)
+
+**Project Showcase 2**
+<br>
+![Project 2](https://via.placeholder.com/600x400/0d1117/58a6ff?text=Your+Project+Here)
 
 </div>
 
